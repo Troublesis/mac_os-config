@@ -2,6 +2,9 @@
 
 # Installs App Store software.
 
+# Amphetamine -  https://apps.apple.com/us/app/amphetamine/id937984704
+mas install 937984704
+
 # # Acorn
 # mas install 1547371478
 
