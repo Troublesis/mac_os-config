@@ -2,47 +2,57 @@
 
 # Installs Homebrew Casks.
 
-brew install --cask alfred
+# brew install --cask alfred
+# brew install --cask atext
+# brew install --cask audio-hijack
+# brew install --cask balenaetcher
+# brew install --cask bartender
+# brew install --cask carbon-copy-cloner
+# brew install --cask discord
+# brew install --cask doxie
+# brew install --cask dropbox
+# brew install --cask firefox
+# brew install --cask fission
+# brew install --cask google-chrome
+# brew install --cask hazel
+# brew install --cask iina
+# brew install --cask imageoptim
+# brew install --cask istat-menus
+# brew install --cask iterm2
+# brew install --cask mitmproxy
+# brew install --cask mockuuups-studio
+# brew install --cask muzzle
+# brew install --cask netnewswire
+# brew install --cask ngrok
+# brew install --cask numi
+# brew install --cask openoffice
+# brew install --cask orbstack
+# brew install --cask owasp-zap
+# brew install --cask path-finder
+# brew install --cask pgadmin4
+# brew install --cask pika
+# brew install --cask pixelsnap
+# brew install --cask protonvpn
+# brew install --cask rapidapi
+# brew install --cask resolutionator
+# brew install --cask retrobatch
+# brew install --cask signal
+# brew install --cask transmit
+# brew install --cask twist
+# brew install --cask viscosity
+# brew install --cask zed
+brew install --cask alacritty
+brew install --cask amazon-q
 brew install --cask appcleaner
-brew install --cask audio-hijack
-brew install --cask balenaetcher
-brew install --cask bartender
-brew install --cask carbon-copy-cloner
+brew install --cask arc
+brew install --cask bettertouchtool
+brew install --cask bruno
 brew install --cask cleanshot
-brew install --cask discord
 brew install --cask downie
-brew install --cask doxie
-brew install --cask dropbox
-brew install --cask firefox
-brew install --cask fission
-brew install --cask google-chrome
-brew install --cask hazel
 brew install --cask iina
-brew install --cask imageoptim
-brew install --cask istat-menus
-brew install --cask iterm2
-brew install --cask mitmproxy
-brew install --cask mockuuups-studio
-brew install --cask muzzle
-brew install --cask netnewswire
-brew install --cask ngrok
-brew install --cask numi
+brew install --cask microsoft-remote-desktop
 brew install --cask obsidian
-brew install --cask openoffice
-brew install --cask orbstack
-brew install --cask owasp-zap
-brew install --cask path-finder
-brew install --cask pgadmin4
-brew install --cask pika
-brew install --cask pixelsnap
-brew install --cask protonvpn
-brew install --cask rapidapi
-brew install --cask resolutionator
-brew install --cask retrobatch
-brew install --cask signal
+brew install --cask raycast
+brew install --cask scroll-reverser
 brew install --cask sublime-text
-brew install --cask transmit
-brew install --cask twist
-brew install --cask viscosity
 brew install --cask visual-studio-code
-brew install --cask zed
