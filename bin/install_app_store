@@ -1,96 +1,99 @@
-#! /usr/bin/env bash
+  #! /usr/bin/env bash
 
 # Installs App Store software.
 
-# Acorn
-mas install 1547371478
+# # Acorn
+# mas install 1547371478
 
-# Bitwarden
+# # Bitwarden
 mas install 1352778147
 
-# CCMenu
-mas install 603117688
+# # CCMenu
+# mas install 603117688
 
-# DaisyDisk
-mas install 411643860
+# # DaisyDisk
+# mas install 411643860
 
-# GarageBand
-mas install 682658836
+# # GarageBand
+# mas install 682658836
 
-# Hand Mirror
-mas install 1502839586
+# # Hand Mirror
+# mas install 1502839586
 
-# iMovie
-mas install 408981434
+# # iMovie
+# mas install 408981434
 
-# Key Codes
-mas install 414568915
+# # Key Codes
+# mas install 414568915
 
-# Keymou
-mas install 449863619
+# # Keymou
+# mas install 449863619
 
-# Keynote
+# # Keynote
 mas install 409183694
 
-# Kindle
-mas install 302584613
+# # Kindle
+# mas install 302584613
 
-# LimeChat
-mas install 414030210
+# # LimeChat
+# mas install 414030210
 
-# Marked 2
-mas install 890031187
+# # Marked 2
+# mas install 890031187
 
-# Medis
-mas install 1579200037
+# # Medis
+# mas install 1579200037
 
-# Meeter
-mas install 1510445899
+# # Meeter
+# mas install 1510445899
 
-# Metadatics
-mas install 554883654
+# # Metadatics
+# mas install 554883654
 
-# MindNode
-mas install 1289197285
+# # MindNode
+# mas install 1289197285
 
-# Moom
-mas install 419330170
+# # Moom
+# mas install 419330170
 
-# Name Mangler
-mas install 603637384
+# # Name Mangler
+# mas install 603637384
 
-# Numbers
+# # Numbers
 mas install 409203825
 
-# OmniFocus 3
-mas install 1346203938
+# # OmniFocus 3
+# mas install 1346203938
 
-# Pages
+# # Pages
 mas install 409201541
 
-# Patterns
-mas install 429449079
+# # Patterns
+# mas install 429449079
 
-# Permute 3
-mas install 1444998321
+# # Permute 3
+# mas install 1444998321
 
-# Paletter
-mas install 1494948845
+# # Paletter
+# mas install 1494948845
 
-# Primitive
-mas install 1175103038
+# Pixea https://apps.apple.com/us/app/pixea/id1507782672
+mas install 1507782672
 
-# Sequence Diagram
-mas install 1195426709
+# # Primitive
+# mas install 1175103038
 
-# Shapes
-mas install 930093508
+# # Sequence Diagram
+# mas install 1195426709
 
-# Shush
-mas install 496437906
+# # Shapes
+# mas install 930093508
 
-# Slack
-mas install 803453959
+# # Shush
+# mas install 496437906
 
-# WiFi Explorer
-mas install 494803304
+# # Slack
+# mas install 803453959
+
+# # WiFi Explorer
+# mas install 494803304
