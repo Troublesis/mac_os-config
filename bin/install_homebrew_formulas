@@ -86,3 +86,5 @@ brew install zsh-syntax-highlighting
 brew install stow
 # https://pre-commit.com/
 brew install pre-commit
+# https://commitizen-tools.github.io/commitizen/getting_started/
+brew install commitizen 
