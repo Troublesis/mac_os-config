@@ -2,79 +2,84 @@
 
 # Installs Homebrew software.
 
-brew install asciinema
-brew install bash
-brew install bash-completion
-brew install bat
-brew install blueutil
-brew install cloudflared
-brew install croc
-brew install crystal
-brew install ctags
-brew install difftastic
-brew install direnv
-brew install dive
-brew install dog
-brew install duf
-brew install duti
-brew install exiftool
-brew install fd
-brew install fnm
-brew install frum
+# brew install asciinema
+# brew install bash
+# brew install bash-completion
+# brew install bat
+# brew install blueutil
+# brew install cloudflared
+# brew install croc
+# brew install crystal
+# brew install ctags
+# brew install difftastic
+# brew install direnv
+# brew install dive
+# brew install dog
+# brew install duf
+# brew install duti
+# brew install exiftool
+# brew install fd
+# brew install fnm
+# brew install frum
+# brew install git-delta
+# brew install git-filter-repo
+# brew install git-sizer
+# brew install gpg
+# brew install gping
+# brew install graphicsmagick
+# brew install graphviz
+# brew install hexyl
+# brew install highlight
+# brew install hr
+# brew install htmlq
+# brew install htop
+# brew install httpie
+# brew install httpstat
+# brew install hyperfine
+# brew install ioping
+# brew install jq
+# brew install lnav
+# brew install lynis
+# brew install minisign
+# brew install ncdu
+# brew install noti
+# brew install nushell
+# brew install oha
+# brew install ollama
+# brew install openssh
+# brew install openssl
+# brew install osv-scanner
+# brew install overmind
+# brew install pandoc
+# brew install parallel
+# brew install pastel
+# brew install pgcli
+# brew install pigz
+# brew install pinentry-mac
+# brew install procs
+# brew install rclone
+# brew install readline
+# brew install redis
+# brew install ripgrep
+# brew install shellcheck
+# brew install siege
+# brew install tarsnap
+# brew install tealdeer
+# brew install terraform
+# brew install the_silver_searcher
+# brew install viddy
+# brew install vim
+# brew install websocat
+# brew install xsv
+# brew install yank
+# brew install ykman
+# brew install zoxide
+# rew install tokei
+brew install docker
 brew install fzf
 brew install git
-brew install git-delta
-brew install git-filter-repo
-brew install git-sizer
-brew install gpg
-brew install gping
-brew install graphicsmagick
-brew install graphviz
-brew install hexyl
-brew install highlight
-brew install hr
-brew install htmlq
-brew install htop
-brew install httpie
-brew install httpstat
-brew install hyperfine
-brew install ioping
-brew install jq
-brew install lnav
-brew install lynis
 brew install mas
-brew install minisign
-brew install ncdu
-brew install noti
-brew install nushell
-brew install oha
-brew install ollama
-brew install openssh
-brew install openssl
-brew install osv-scanner
-brew install overmind
-brew install pandoc
-brew install parallel
-brew install pastel
-brew install pgcli
-brew install pigz
-brew install pinentry-mac
-brew install procs
-brew install readline
-brew install redis
-brew install ripgrep
-brew install shellcheck
-brew install siege
-brew install tarsnap
-brew install tealdeer
-brew install terraform
-brew install the_silver_searcher
+brew install syncthing
 brew install tmux
-brew install tokei
-brew install viddy
-brew install vim
-brew install websocat
-brew install xsv
-brew install yank
-brew install ykman
-brew install zoxide
+brew install zsh-autosuggestions
+brew install zsh-syntax-highlighting
