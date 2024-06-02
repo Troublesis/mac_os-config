@@ -83,6 +83,7 @@ brew install syncthing
 brew install tmux
 brew install neovim
 brew install pyenv
+brew install poetry
 # brew install zsh-autosuggestions
 # brew install zsh-syntax-highlighting
 brew install stow
