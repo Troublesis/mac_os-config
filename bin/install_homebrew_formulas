@@ -75,16 +75,19 @@
 # brew install ykman
 # brew install zoxide
 # rew install tokei
-brew install docker
-brew install fzf
+# brew install docker
+# brew install fzf
 brew install git
 brew install mas
 brew install syncthing
 brew install tmux
-brew install zsh-autosuggestions
-brew install zsh-syntax-highlighting
+brew install neovim
+brew install pyenv
+# brew install zsh-autosuggestions
+# brew install zsh-syntax-highlighting
 brew install stow
 # https://pre-commit.com/
 brew install pre-commit
 # https://commitizen-tools.github.io/commitizen/getting_started/
 brew install commitizen 
+brew winstall powerlevel10k
